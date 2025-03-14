@@ -1,5 +1,3 @@
-# Handwritten-Digit-Recognition  
-
 ---
 
 ## 📝 Handwritten Digit Recognition
@@ -15,11 +13,9 @@ This project implements **Handwritten Digit Recognition** using deep learning. I
 ---
 
 ## 📦 Installation
-Make sure you have Python installed (recommended version: **Python 3.8+**). Then, install dependencies:
+Make sure you have Python installed (recommended version: **Python 3.8+**). 
 
-```bash
-pip install -r requirements.txt
-```
+
 
 ---
 
